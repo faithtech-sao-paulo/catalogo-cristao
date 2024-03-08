@@ -2,6 +2,8 @@
 
 Coleção de códigos para uso em projetos com foco no Reino.
 
+Pequenos projetos, partes de projetos ou pedaços de códigos os quais não valem criar um repositório inteiro aqui estarão disponíveis.
+
 ## 🚀 Categorias de projetos
 
 Texto-para-fala (Text-2-Speech)    
