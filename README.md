@@ -8,8 +8,8 @@ Pequenos projetos, partes de projetos ou pedaços de códigos os quais não vale
 
 Texto-para-fala (Text-2-Speech)    
 Sincronismo labial    
-Rastreamento de Objetos (Tracking)
-Encontra_pet (comparador de imagens)
+Rastreamento de Objetos (Tracking)    
+Encontra_pet (comparador de imagens) 07/05/2024
 
 
 ## 🙋‍♂️ Colabore!

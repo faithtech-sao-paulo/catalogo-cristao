@@ -7,7 +7,7 @@ Foi nos pedido ajuda para montar um app em que o usuário fizesse o upload da fo
 Código python com interface gradio.
 PRECISAMOS corrigir um bug que não deixa a imagem do pet azulada pela inversão do RRGB e também não exibe as 3 imagens na tela.
 
-![Encontra Pet](URL_da_Imagem)
+![Encontra Pet](https://github.com/faithtech-sao-paulo/catalogo-cristao/blob/main/encontra_pet/print_mvp_encontra_pet.jpg)
 
 ## 🙋‍♂️ Colabore!
 
